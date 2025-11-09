@@ -8,7 +8,7 @@
 - Algorithms & computational models  
 - Machine learning & deep learning
 - Algorithmic Game Theory
-- Writing elegant, efficient solutions in **Python** & **C**  
+- Writing elegant, efficient solutions in **Python** & **C / C++** (especially python)
 
 🔭 **Currently exploring:**  
 - Algorithmic Game Theory
