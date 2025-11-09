@@ -2,7 +2,7 @@
 
 🎓 **CS student at the University of Haifa (Etgar program), Final Year!**
 
-🚀 Started my B.Sc. at 14, graduating at 17 (Semester B 2026)  
+🚀 Started my B.Sc. at 14, graduating at 17
 
 💡 **Passionate about:**  
 - Algorithms & computational models  
