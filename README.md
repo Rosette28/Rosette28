@@ -2,7 +2,7 @@
 
 🎓 **CS student at the University of Haifa (Etgar program), Final Year!**
 
-🚀 Started my B.Sc. at 14, graduating at 17
+Started my B.Sc. at 14, graduating at 17
 
 💡 **Passionate about:**  
 - Algorithms & computational models  
@@ -12,8 +12,9 @@
 
 🔭 **Currently exploring:**  
 - Algorithmic Game Theory
+- Computer Graphics
 - Deep Learning
-- DevOps (currently learning a devOps course)
+- DevOps (learnt a devOps course)
 
 📂 **Check out my projects:**  
 - Rock-Paper-Scissors-Simulator [(link)](https://github.com/Rosette28/Rock-Paper-Scissors-Simulator) – A Python project to simulate and analyze different strategies in the classic Rock-Paper-Scissors (RPS) game. The project implements a variety of strategies, including probabilistic, reactive, and adaptive behaviors, and allows comparisons between them through simulation. The project will be occasionally updated - I have many ideas for things to add
